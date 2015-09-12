@@ -1,5 +1,3 @@
 # Instagram_client
 
-CodePath Observer group May 2015
-
-Assignment# 1
+Assignment 1 - CodePath Observer group - Android BootCamp May 2015
